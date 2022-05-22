@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: black;
+    color: #8a2be2;
+    height: 14vw;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar h1 {
+    font-size: 5em;
+}
+
+.card-header {
+    background-color: #8a2be2;
+    color: black;
+}
+
+.card-body p {
+    background-color: rgb(170, 208, 228);
+}
