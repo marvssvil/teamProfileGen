@@ -16,6 +16,7 @@ In order to use it you will have to input your teams information after running n
 
 ## Test
 You can run tests by using jest on the __test__ folder!
+A link to the video running the [application](https://youtu.be/lmsB-_nGdE8)
 
 ## Contact
 Email me at: vic.solis.maria@gmail.com
