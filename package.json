@@ -1,9 +1,32 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.0-beta1",
+    "D": "^1.0.0",
     "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^28.1.0"
-  }
+  },
+  "name": "teamgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvssvil/teamProfileGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvssvil/teamProfileGen/issues"
+  },
+  "homepage": "https://github.com/marvssvil/teamProfileGen#readme",
+  "description": ""
 }
